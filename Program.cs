@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ProjectZero
+namespace AppStruct
 {
     class Program
     {
